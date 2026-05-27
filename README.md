@@ -2,7 +2,7 @@
 
 A WSL alternative for users who prefer an MS-DOS environment. DOS Subsystem for Linux integrates a real Linux environment into MS-DOS systems, allowing users to make use of both DOS and Linux applications from the DOS command prompt.
 
-I have made a prebuilt zip file containing a working copy of DSL. test it and lmk if there are any errors.
+I have made a prebuilt zip file containing a working copy of DSL. test it and lmk if there are any errors. (NOTE: You must have XMS and EMS or any dos extender off for this to work!!)
 
 there is also the modified "src.7z" too.
 
